@@ -1,0 +1,2 @@
+# Encryption
+MD5、Name、SHA、SHA256、SHA384、SHA512 
